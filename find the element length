@@ -1,0 +1,8 @@
+package com.company;
+
+public class cwp_27_arrays {
+    public static void main(String[] args) {
+        int[] marks =  {70,80,60,20};
+        System.out.println(marks.length);
+    }
+}
